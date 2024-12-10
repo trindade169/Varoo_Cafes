@@ -12,18 +12,18 @@ body {
     font-family: 'Poppins', sans-serif;
     overflow: hidden;
 }
-    .container {
+.container {
     display: flex;
     flex-direction: column;
     max-width: 1440px;
     margin: 0 auto;
 }
-    a {
+a {
     text-decoration: none;
     color: white;
     font-family: 'Poppins', sans-serif;
 }
-    button {
+button {
     border: none;
     font-family: Poppins, sans-serif;
 }
